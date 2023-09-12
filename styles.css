@@ -22,3 +22,16 @@ main li{
 footer{
   border: thin solid black;
 }
+
+h1, p{
+  color:orangered
+}
+
+li{
+  list-style-type:none;
+  box-shadow: 5px 5px 5px black;
+}
+
+img{
+  border-radius: 5%;
+}
